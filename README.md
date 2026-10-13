@@ -358,8 +358,8 @@ Input `"Replace all numbers in \"Hello 34 I'm 233 years old\" with NUMBERS"`:
 
 ### Use of AI
 
-An AI assistant (Claude) was used throughout this project: to discuss the
-architecture, to write and review the source code and the local test scripts,
+An AIs assistants was used throughout this project: to discuss the
+architecture, to review the source code and the local test scripts,
 to diagnose problems found while running the model (for example the
 backslash restriction and the prompt wording), and to draft this README. The
 code was run and checked against the provided inputs, and the results above
