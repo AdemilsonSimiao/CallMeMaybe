@@ -19,7 +19,7 @@ build-backend = "hatchling.build"
 packages = ["llm_sdk"]
 
 [tool.mypy]
-exclude = ["^\\.venv/", "^llm_sdk/", "^data/", "^tests/"]
+exclude = ["^\\.venv/", "^llm_sdk/", "^data/", "^tests/", "^chat/"]
 
 [[tool.mypy.overrides]]
 module = "llm_sdk.*"
